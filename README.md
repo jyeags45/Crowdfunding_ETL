@@ -12,9 +12,9 @@ From given starter code, contact.xlsx, and crowdfunding.xlsx:
 ![image](./project.img/image%20(1).png)
 
 
-Finalized code for DataFrame creation (parts 1-3): 
+Finalized code for DataFrame creation (parts 1-3): Found in main ETL Code
 
-Finalized code for databse creation (part 4): 
+Finalized code for databse creation (part 4): Found in ETL SQL code 
 
 ## Resources and References
 
